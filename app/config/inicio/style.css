@@ -9,21 +9,13 @@ body{
 
 header{
     width: 50%;
-    height: 70px;
+    height: 82px;
     padding: 10px 60%;
     background-color: #DFF2EB;
     position: fixed;
     box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.384);
     top: 0;
 }
-.logo-what{
-    height: 88px;
-    margin-left: 93%;
-    position: fixed;
-    margin-top: 42%;
-    cursor: pointer;
-}
-
 .logo{
     justify-content: center;
     align-items: center;
@@ -34,24 +26,26 @@ header{
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     height: 100px;
-    
+    transition: transform 0.3s ease, color 0.3s ease; /* Animación suave */
 }
 .logo:hover{
-    color: rgb(204, 202, 202);
+    color: rgb(255, 255, 255);
     text-decoration: underline;
+    transform: scale(1.2); /* Aumenta el tamaño al 120% */
 }
-.nav-link{
-    
+.nav-link {
     justify-content: center;
     align-items: center;
-    padding: 2px 1%;
+    padding: 2px 4%;
     font-family: Arial, Helvetica, sans-serif;
-    color:#7AB2D3;
+    color: #7AB2D3;
     font-size: 17px;
     text-decoration: none;
+    transition: transform 0.3s ease, color 0.3s ease; /* Animación suave */
 }
-/*cuando pones el cursor en el link*/
-.nav-link:hover{
+
+.nav-link:hover {
     color: rgb(255, 255, 255);
-    text-decoration:  underline;
+    text-decoration: underline;
+    transform: scale(1.2); /* Aumenta el tamaño al 120% */
 }
