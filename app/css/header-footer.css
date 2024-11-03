@@ -62,7 +62,6 @@ header {
     text-decoration-color: black; 
 }
 
-/* Estilo del footer */
 .footer {
     background-color: #333;
     color: #fff;
@@ -100,6 +99,6 @@ header {
 }
 
 .footer-links a:hover {
-    color: #4CAF50; /* Color de hover */
+    color: #4CAF50; 
 }
 

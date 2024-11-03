@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/app/css/footer.css">
-
 <footer class="footer">
     <div class="footer-content">
         <p>© 2024 MediTrack. Todos los derechos reservados.</p>
