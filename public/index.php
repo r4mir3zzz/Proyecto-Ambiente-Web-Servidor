@@ -1,5 +1,5 @@
-<?php 
-    include_once('./app/layouts/header.php');
+<?php
+include 'header.php';
 ?>
 
 <main class="main-elements">
@@ -17,6 +17,6 @@
     </section>
 </main>
 
-<?php 
-    include_once('./app/layouts/footer.php');
+<?php
+include 'footer.php';
 ?>
