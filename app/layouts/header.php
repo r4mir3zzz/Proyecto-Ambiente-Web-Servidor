@@ -20,20 +20,23 @@
                 Servicios
                 <div class="dropdown-content">
                     <div class="submenu">
-                        <a href="./app/components/functions/createAppointment.php">Crear cita</a>
+                        <a href="">Citas Medicas</a>
                         <div class="sub-submenu">
                             <a href="./app/components/functions/showAppoin.php">Mostrar cita</a>
+                            <a href="./app/components/functions/createAppointment.php">Crear cita</a>
                         </div>
                     </div>
                     <div class="submenu">
-                        <a href="./app/components/functions/createEmergency.php">Crear emergencia</a>
+                        <a href="#">Emergencias</a>
                         <div class="sub-submenu">
-                            <a href="showEmergency">Mostrar emergencia</a>
+                            <a href="./app/components/functions/createEmergency.php">Crear Emergencias</a>
+                            <a href="./app/components/functions/showEmergency.php">Mostrar Emergencias</a>
                         </div>
                     </div>
                     <div class="submenu">
-                        <a href="./app/components/functions/createMedicine.php">Crear medicina</a>
+                        <a href="#">Medicamentos</a>
                         <div class="sub-submenu">
+                            <a href="./app/components/functions/createMedicine.php">Crear medicaciones</a>
                             <a href="./app/components/functions/showMedications.php">Mostrar medicaciones</a>
                         </div>
                     </div>
