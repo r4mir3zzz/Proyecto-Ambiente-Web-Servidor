@@ -140,3 +140,44 @@ header {
     display: block;
 }
 
+
+
+/*estilos del footer*/
+.beforefooter{
+    background-color: #ecebeb;
+    height: 100px;
+}
+
+
+
+
+.footerDiv{
+    background-color:  #074e72b2;
+    color: #ecebeb;
+    font-size: 16px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-family: arial;
+}
+.footerDiv footer p{
+    text-align: center;
+}
+.linkFooter{
+    margin-top: 8%;
+    background-color: #074e723f ;
+    height: 50px;
+    
+}
+.linkFooter a{
+    color: #ecebeb;
+    text-decoration: none;
+    padding: 10px  100px ;
+    font-size: 18px;
+    font-family: arial;
+}
+.linkFooter a:hover{
+    color: rgb(175, 172, 172);
+    border-radius: 10px;
+}
+

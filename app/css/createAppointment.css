@@ -1,0 +1,17 @@
+:root{
+    --background-color: #ebeff0;
+    --font: "Merriweather", serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+body {
+    position: relative; 
+}
+h1{
+    margin-top: 55%;
+}
