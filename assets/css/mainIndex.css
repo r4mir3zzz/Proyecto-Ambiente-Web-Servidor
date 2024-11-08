@@ -13,10 +13,10 @@
 }
 
 .components {
-    padding: 10%;
+    padding: 5%;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: start;
     height: auto;
     width: 100%;
 }

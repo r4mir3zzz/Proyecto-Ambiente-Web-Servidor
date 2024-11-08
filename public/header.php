@@ -6,6 +6,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="../assets/css/header-footer.css">
     <link rel="stylesheet" href="../assets/css/mainIndex.css">
+    <link rel="stylesheet" href="../assets/css/createAppointment.css">
 </head>
 <body>
 <header class="header-prin">
