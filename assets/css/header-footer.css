@@ -85,7 +85,6 @@ header {
     opacity: 0; /* Inicio de la animación con opacidad 0 */
     transition: opacity 0.6s ease; /* Ajuste de la velocidad de la animación */
 }
-
 .dropdown:hover .dropdown-content {
     display: block;
     opacity: 1; /* Fin de la animación con opacidad 1 */

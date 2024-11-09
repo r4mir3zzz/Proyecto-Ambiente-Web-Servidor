@@ -25,12 +25,14 @@
     font-size: 5.4rem;
     color: #ebeff0;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
+    margin-left: 20%;
 }
 
 .components p {
     font-size: 1.5rem;
     color: #ebeff0;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+    margin-left: 28%;
 }
 
 .cards {
@@ -49,7 +51,7 @@
 }
 
 .box {
-    background-color: #074e72b2;
+    background-color: #074e728f;
     color: white;
     padding: 2rem;
     flex: 1;
