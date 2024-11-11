@@ -5,7 +5,7 @@ include 'header.php';
 <div class="login-container">
         <h2>Bienvenido a MediTrack!</h2>
         <?php
-            include "./config/conexion.php";
+            include "../config/conexion.php";
             include "./verify.php";
         ?>
         <form action="" method="post">
@@ -21,7 +21,3 @@ include 'header.php';
     </div>
 
     
-
-<?php
-include 'footer.php';
-?>

@@ -2,7 +2,7 @@
 // Incluir el archivo de conexión
 session_start();
  
-include './config/conexion.php';
+include '../config/conexion.php';
  
 if (!empty($_POST["btningresar"])) {
     if (!empty($_POST["username"]) && !empty($_POST["password"])) {

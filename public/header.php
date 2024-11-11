@@ -16,7 +16,7 @@
             <img src="../assets/img/MediTracksvg.svg" class="logo-header" alt="Logotipo de MediTrack">
         </a>
         <ul class="header-list">
-            <li><a href="">Inicio de sesión</a></li>
+            <li><a href="login.php">Inicio de sesión</a></li>
             <li><a href="">Crear Cuenta</a></li>
             <li class="navbar dropdown"> 
                 Servicios
