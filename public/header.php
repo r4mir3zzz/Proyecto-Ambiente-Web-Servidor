@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="../assets/css/header-footer.css">
     <link rel="stylesheet" href="../assets/css/mainIndex.css">
     <link rel="stylesheet" href="../assets/css/createAppointment.css">
+    <link rel="stylesheet" href="../assets/css/login.css">
 </head>
 <body>
 <header class="header-prin">
