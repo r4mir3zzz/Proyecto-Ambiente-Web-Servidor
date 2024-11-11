@@ -1,21 +1,8 @@
-body {
-
+.mainLogin{
     display: flex;
-
     justify-content: center;
-
     align-items: center;
-
-    height: 100vh;
-
-    background: rgb(200, 230, 240);
-
-    color: #333;
-
-   
-
 }
-
 
 .login-container {
 
@@ -35,7 +22,7 @@ body {
 
  
 
-h2 {
+.welcomeMessage {
 
     color: #555;
 
@@ -45,7 +32,7 @@ h2 {
 
  
 
-form label {
+.formLogin .labelLogin {
 
     font-size: 14px;
 
@@ -59,7 +46,7 @@ form label {
 
  
 
-input[type="text"], input[type="password"] {
+.inputLogin {
 
     width: 100%;
 
