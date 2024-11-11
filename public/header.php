@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="../assets/css/header-footer.css">
     <link rel="stylesheet" href="../assets/css/mainIndex.css">
     <link rel="stylesheet" href="../assets/css/createAppointment.css">
+    <link rel="stylesheet" href="../assets/css/login.css">
 </head>
 <body>
 <header class="header-prin">
@@ -15,7 +16,7 @@
             <img src="../assets/img/MediTracksvg.svg" class="logo-header" alt="Logotipo de MediTrack">
         </a>
         <ul class="header-list">
-            <li><a href="">Inicio de sesión</a></li>
+            <li><a href="login.php">Inicio de sesión</a></li>
             <li><a href="">Crear Cuenta</a></li>
             <li class="navbar dropdown"> 
                 Servicios
