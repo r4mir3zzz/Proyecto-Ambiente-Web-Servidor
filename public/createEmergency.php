@@ -3,8 +3,8 @@ include 'header.php';
 ?>
 
 
-<main>
-<main>
+
+<main class="main__emergency">
     <div class="container">
         <h1 class="tileForm">Formulario de Emergencias  <p>Rellene el formulario cuidadosamente</p></h1>
         <form>
@@ -39,8 +39,6 @@ include 'header.php';
         </form>
     </div>
     <br><br>
-</main>
-
 </main>
 
 
