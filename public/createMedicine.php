@@ -2,7 +2,7 @@
 include 'header.php';
 ?>
 
-<main>
+<main class="main-medicine">
 <link rel="stylesheet" href="../assets/css/createMedicine.css">
     <div class="container">
         <h1 class="tileForm">Formulario de Medicamentos <p>Rellene el formulario de inscripción</p></h1>
