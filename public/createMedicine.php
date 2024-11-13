@@ -19,12 +19,12 @@ include 'header.php';
 
             <div class="precioMedicamento">
                 <h2>Precio</h2>
-                <input class="input-precio" type="number" name="price" id="price" step="0.01" required>
+                <input class="input-precio" type="number" name="price" id="price" step="1" required>
             </div>
 
             <div class="cantidadMedicamento">
                 <h2>Cantidad</h2>
-                <input class="input-cantidad" type="number" name="quantity" id="quantity" required>
+                <input class="input-cantidad" min="1" type="number" name="quantity" id="quantity" required>
             </div>
 
             <input class="botonEnviar" type="button" value="Crear" id="btnsubmit">
