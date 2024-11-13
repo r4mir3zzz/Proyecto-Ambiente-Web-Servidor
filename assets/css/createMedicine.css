@@ -1,4 +1,10 @@
-main {
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Sevillana&display=swap');
+
+:root{
+    --font: "Merriweather", serif;
+}
+
+.main-medicine {
     margin-top: 10%;
    
 }
@@ -12,7 +18,7 @@ main {
 }
 .tileForm{
     color: rgb(0, 0, 0);
-    font-family: Arial;
+    font-family: var(--font);
     font-size: 25px;
     text-align: center;
     margin-bottom: 5%;
@@ -25,7 +31,7 @@ main {
 }
 
 form h2{
-    font-family: Arial;
+    font-family: var(--font);
     font-weight: lighter;
     font-size: 15px;
     margin-left: 25%;

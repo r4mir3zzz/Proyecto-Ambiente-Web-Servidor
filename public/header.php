@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="../assets/css/mainIndex.css">
     <link rel="stylesheet" href="../assets/css/createAppointment.css">
     <link rel="stylesheet" href="../assets/css/login.css">
-    <link rel="stylesheet" href="../assets/css/createEmergency.css">
     <link rel="stylesheet" href="../assets/css/contactMessage.css">
     <link rel="stylesheet" href="../assets/css/viewAppoint.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -23,7 +22,7 @@
         </a>
         <ul class="header-list">
             <li><a href="login.php">Inicio de sesión</a></li>
-            <li><a href="">Crear Cuenta</a></li>
+            <li><a href="signup.php">Crear Cuenta</a></li>
             <li class="navbar dropdown"> 
                 Servicios
                 <div class="dropdown-content">

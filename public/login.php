@@ -17,7 +17,7 @@ include 'header.php';
             <input type="password" id="password" name="password" class="inputLogin" >
             
             <input type="submit" value="Iniciar Sesion" class="btningresar" name="btningresar">
-            <p class="signup-link">¿No tienes cuenta? <a href="#">Regístrate aquí</a></p>
+            <p class="signup-link">¿No tienes cuenta? <a href="signup.php">Regístrate aquí</a></p>
             </form>
     </div>
 </main>
