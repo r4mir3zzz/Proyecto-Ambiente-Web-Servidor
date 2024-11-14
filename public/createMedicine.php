@@ -18,12 +18,12 @@ include 'header.php';
             </div>
 
             <div class="precioMedicamento">
-                <h2>Precio</h2>
+                <h2>Dosis</h2>
                 <input class="input-precio" type="number" name="price" id="price" step="0.01" required>
             </div>
 
             <div class="cantidadMedicamento">
-                <h2>Cantidad</h2>
+                <h2>Frecuencia</h2>
                 <input class="input-cantidad" type="number" name="quantity" id="quantity" required>
             </div>
 
