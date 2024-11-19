@@ -29,6 +29,8 @@ include 'header.php';
             <div class="cantidadMedicamento">
                 <h2>Cantidad</h2>
                 <input class="input-cantidad" type="number" name="cantidad" id="cantidad" min="0" required>
+                <h2>Frecuencia</h2>
+                <input class="input-cantidad" type="number" name="quantity" id="quantity" required>
             </div>
             <input class="botonCrear" type="submit" value="Crear">
         </form>
