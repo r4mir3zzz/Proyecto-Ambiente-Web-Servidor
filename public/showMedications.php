@@ -4,12 +4,11 @@ include 'header.php';
 
 <main class="main__showApp">
     <div>
-        <h2>Medicamentos agregados</h2>
     <table class="table">
         <thead class="bg-info">
             <tr>
-                <th class="col">Nombre Medicamento</th>
-                <th class="col">Descripcion</th>
+                <th class="col">Nombre</th>
+                <th class="col">Descripción</th>
                 <th class="col">Dosis</th>
                 <th class="col">Frecuencia</th>
             </tr>
