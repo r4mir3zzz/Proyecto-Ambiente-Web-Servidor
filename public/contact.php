@@ -7,7 +7,7 @@ include_once('header.php');
     <section class="section__social">
         
         <div>
-            <h2 class="title_contact">Ubicacion</h2>
+            <h2 class="title_contact">Ubicación</h2>
             <p class="text__contact">Heredia, oxigeno</p>
         </div>
 
